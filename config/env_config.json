@@ -1,0 +1,11 @@
+{
+  "hadoop_cluster_name" : "",
+  "environment" : "dev",
+  "hive" : {
+    "odbc_url" : "",
+    "port" : ""
+  },
+  "spark" : {
+    "submit_command" : ""
+  }
+}
